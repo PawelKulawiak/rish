@@ -2,4 +2,4 @@
 layout: home
 ---
 
-![](https://github.com/PawelKulawiak/rish/blob/main/logo/logo.png?raw=true)  
+![](https://raw.githubusercontent.com/PawelKulawiak/rish/main/logo/logo.png)
