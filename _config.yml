@@ -1,5 +1,15 @@
-title: ZEIF-Blog
-email: zeif.blog@uni-potsdam.de
-description: "Online-Zeitschrift des Zentrums für empirische Inklusionsforschung (ZEIF)"
+title: RISH
+email: rish@uni-potsdam.de
+description: "Online-Zeitschrift für Rehabilitation, Inklusion, Sonderpädagogik und Heilpädagogik in der Schule"
 
 theme: minima
+
+baseurl: /rish # the subpath of your site, e.g. /blog
+url: https://pawelkulawiak.github.io/rish/ # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+theme: minima
+
+exclude:
+- pdf/
+- vorlagen/
