@@ -4,6 +4,6 @@ title: Beiträge
 permalink: /beiträge/
 ---
 
-Hinweise für Autor*innen
+2022
 
-[Manuskriptvorlage](https://github.com/PawelKulawiak/zeif-test/raw/main/vorlagen/manuskriptvorlage.docx)
+link
