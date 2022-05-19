@@ -28,4 +28,4 @@ RISH ist eine frei verfügbare Online-Fachzeitschrift für wissenschaftliche Fac
    - Namen der Gutachter\*innen sind für die Autor\*innen nicht einsehbar
 - Open-Peer-Review-Verfahren
    - Veröffentlichung des Peer-Review-Verfahrens für akzeptierte Manuskripte (Gutachten, Antworten der Autor\*innen, Korrespondenzen der Herausgeber\*innen und alle Versionen des Manuskripts)
-   - Namen der Gutachter\*innen werden nur mit Zustimmung veröffentlicht 
+   - Namen der Gutachter\*innen werden nur mit Zustimmung veröffentlicht
