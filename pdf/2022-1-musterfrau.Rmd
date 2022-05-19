@@ -3,16 +3,18 @@ title: "Inklusion und Implusion in der impulsiven Schule"
 author: "Mara Musterfrau, Max Mustermann"
 output:
   pdf_document: default
-  word_document: default
   html_document: default
 ---
 
-![](C:\Users\pawel\Nextcloud\rish\logo\logo.png){width="25%"}
+![](C:\Users\pawel\Nextcloud\rish\logo\logo.png){width="35%"}
 
-Zentrum für empirische Inklusionsforschung (ZEIF)
+RISH: Zeitschrift für Rehabilitation, Inklusion, Sonderpädagogik und Heilpädagogik in der Schule
 
-ZEIF-BLOG, 2022, 1
-\
+RISH, 2022, 1
+
+doi xxxxxxxxxxxxxxxxx
+
+[PDF-VERSION](https://github.com/PawelKulawiak/rish/raw/main/pdf/2022-1-musterfrau.pdf)
 
 **Zusammenfassung:** Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
