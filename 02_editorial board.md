@@ -6,7 +6,7 @@ permalink: /editorial board/
 
 **Herausgeber\*innen:**
 
-Dr. Pawel R. Kulawiak (Universität Potsdam)
+Dr. Pawel R. Kulawiak (Universität Potsdam/Universität zu Köln)
 
 XXX XXXX (Universität XXX)
 
@@ -16,19 +16,19 @@ XXX XXXX (Universität XXX)
 
 Prof. Dr. Max Mustermann (Universität Chicago)
 
-Prof. Dr. Max Mustermann (Universität Chicago) 
+Dr. Mara Mustermfrau (Universität Chicago) 
+
+Dr. Max Mustermann (Universität Chicago) 
+
+Prof. Dr. Mara Mustermfrau (Universität Chicago) 
+
+Dr. Max Mustermann (Universität Chicago) 
 
 Prof. Dr. Max Mustermann (Universität Chicago) 
 
-Prof. Dr. Max Mustermann (Universität Chicago) 
+Dr. Mara Mustermfrau (Universität Chicago) 
 
-Prof. Dr. Max Mustermann (Universität Chicago) 
-
-Prof. Dr. Max Mustermann (Universität Chicago) 
-
-Prof. Dr. Max Mustermann (Universität Chicago) 
-
-Prof. Dr. Max Mustermann (Universität Chicago) 
+Dr. Mara Mustermfrau (Universität Chicago) 
 
 Prof. Dr. Max Mustermann (Universität Chicago) 
 
