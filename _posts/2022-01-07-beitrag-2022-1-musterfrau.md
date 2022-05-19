@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "Inklusion und Implusion in der impulsiven Schule: Implusionspädagogik neu gedacht"
+title:  "Inklusion und Implusion in der impulsiven Schule"
 date: 2022-01-07
 author: Mara Musterfrau, Max Mustermann
 ---
 
-![](https://github.com/PawelKulawiak/zeif-test/blob/main/zeif-logo/zeif-logo.png?raw=true)
+![](https://raw.githubusercontent.com/PawelKulawiak/rish/main/logo/logo.png)
 
-Zentrum für empirische Inklusionsforschung (ZEIF)
+RISH: Zeitschrift für Rehabilitation, Inklusion, Sonderpädagogik und Heilpädagogik in der Schule
 
-ZEIF-BLOG, 2022, 1
+RISH, 2022, 1
+
+doi xxxxxxxxxxxxxxxxx
 
 [PDF-VERSION](https://github.com/PawelKulawiak/zeif-test/raw/main/pdf/2022-01-07-beitrag-2022-1-musterfrau.pdf)
 
