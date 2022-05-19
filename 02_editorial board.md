@@ -4,7 +4,7 @@ title: Editorial Board
 permalink: /editorial board/
 ---
 
-**Herausgeber\*innen:**
+# Herausgeber\*innen
 
 Dr. Pawel R. Kulawiak (Universität Potsdam/Universität zu Köln)
 
@@ -12,7 +12,7 @@ XXX XXXX (Universität XXX)
 
 XXX XXXX (Universität XXX)
 
-**Editorial Board:**
+# Editorial Board
 
 Prof. Dr. Max Mustermann (Universität Chicago)
 

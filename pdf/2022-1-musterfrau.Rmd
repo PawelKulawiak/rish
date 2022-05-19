@@ -2,11 +2,15 @@
 title: "Inklusion und Implusion in der impulsiven Schule"
 author: "Mara Musterfrau, Max Mustermann"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
+\
+
 ![](C:\Users\pawel\Nextcloud\rish\logo\logo.png){width="35%"}
+
+\
 
 RISH: Zeitschrift für Rehabilitation, Inklusion, Sonderpädagogik und Heilpädagogik in der Schule
 
@@ -16,11 +20,13 @@ doi xxxxxxxxxxxxxxxxx
 
 [PDF-VERSION](https://github.com/PawelKulawiak/rish/raw/main/pdf/2022-1-musterfrau.pdf)
 
+\
+
 **Zusammenfassung:** Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 **Abstract:** Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-## Einleitung
+# Einleitung
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et varius tellus. Maecenas at suscipit sem, ac aliquam mi. Vivamus et dui vel arcu dictum aliquam. Ut eleifend finibus sapien mattis dictum. Nam scelerisque sollicitudin turpis et consectetur. Praesent dapibus hendrerit rhoncus. Duis et auctor urna, a fermentum libero. Vivamus laoreet, turpis vel rutrum hendrerit, felis libero fermentum enim, nec viverra nulla orci sit amet lacus. Vestibulum facilisis sapien odio, quis pulvinar purus tincidunt eget.
 
@@ -30,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et varius tellus.
 
 Nullam bibendum lectus sed est egestas dignissim. Maecenas lobortis mi in malesuada porta. Aliquam eu luctus dui. Etiam id sem purus. Nam et mauris tincidunt, euismod purus at, bibendum eros. Sed dignissim condimentum urna vel porta. Ut blandit ut nisl a dictum. Maecenas molestie erat quis eros dapibus venenatis. Fusce pellentesque, risus et ultrices lobortis, elit arcu pellentesque arcu, eu facilisis enim ligula ut lectus. Phasellus facilisis neque eget orci sagittis vestibulum. Aliquam ligula velit.
 
-### Fallbeispiel
+## Fallbeispiel
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et varius tellus. Maecenas at suscipit sem, ac aliquam mi. Vivamus et dui vel arcu dictum aliquam. Ut eleifend finibus sapien mattis dictum. Nam scelerisque sollicitudin turpis et consectetur. Praesent dapibus hendrerit rhoncus. Duis et auctor urna, a fermentum libero. Vivamus laoreet, turpis vel rutrum hendrerit, felis libero fermentum enim, nec viverra nulla orci sit amet lacus. Vestibulum facilisis sapien odio, quis pulvinar purus tincidunt eget.
 
@@ -38,20 +44,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et varius tellus.
 
 Nullam bibendum lectus sed est egestas dignissim. Maecenas lobortis mi in malesuada porta. Aliquam eu luctus dui. Etiam id sem purus. Nam et mauris tincidunt, euismod purus at, bibendum eros. Sed dignissim condimentum urna vel porta. Ut blandit ut nisl a dictum. Maecenas molestie erat quis eros dapibus venenatis. Fusce pellentesque, risus et ultrices lobortis, elit arcu pellentesque arcu, eu facilisis enim ligula ut lectus. Phasellus facilisis neque eget orci sagittis vestibulum. Aliquam ligula velit.
 
-## Implusionspädagogik
+# Implusionspädagogik
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et varius tellus. Maecenas at suscipit sem, ac aliquam mi. Vivamus et dui vel arcu dictum aliquam. Ut eleifend finibus sapien mattis dictum. Nam scelerisque sollicitudin turpis et consectetur. Praesent dapibus hendrerit rhoncus. Duis et auctor urna, a fermentum libero. Vivamus laoreet, turpis vel rutrum hendrerit, felis libero fermentum enim, nec viverra nulla orci sit amet lacus. Vestibulum facilisis sapien odio, quis pulvinar purus tincidunt eget.
 
-| Inklusion | Implusion | Exklusion |
-| :---      | :----:    |      ---: |
-| Nullam    | bibendum  | lectus    |
-| Aliquam   | eros      | sed       |
+```{r, echo = F, ft.align = "left", warning=FALSE, message=F}
+library(flextable)
+ABC <- c("trhrth","gefg","eretet")
+QWE <- c("rthr","errew","reer")
+LKJ <- c("hrth","trzrtz","rzer")
+data.frame(ABC, QWE, LKJ) |> flextable()
+```
+
 
 **Tabelle 1:** Faktoren einer Implusivenpädagogik
 
 Nullam bibendum lectus sed est egestas dignissim. Maecenas lobortis mi in malesuada porta. Aliquam eu luctus dui. Etiam id sem purus. Nam et mauris tincidunt, euismod purus at, bibendum eros. Sed dignissim condimentum urna vel porta. Ut blandit ut nisl a dictum. Maecenas molestie erat quis eros dapibus venenatis. Fusce pellentesque, risus et ultrices lobortis, elit arcu pellentesque arcu, eu facilisis enim ligula ut lectus. Phasellus facilisis neque eget orci sagittis vestibulum. Aliquam ligula velit.
 
-## Fazit
+# Fazit
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et varius tellus. Maecenas at suscipit sem, ac aliquam mi. Vivamus et dui vel arcu dictum aliquam. Ut eleifend finibus sapien mattis dictum. Nam scelerisque sollicitudin turpis et consectetur. Praesent dapibus hendrerit rhoncus. Duis et auctor urna, a fermentum libero. Vivamus laoreet, turpis vel rutrum hendrerit, felis libero fermentum enim, nec viverra nulla orci sit amet lacus. Vestibulum facilisis sapien odio, quis pulvinar purus tincidunt eget.
 
@@ -61,11 +71,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et varius tellus.
 
 Nullam bibendum lectus sed est egestas dignissim. Maecenas lobortis mi in malesuada porta. Aliquam eu luctus dui. Etiam id sem purus. Nam et mauris tincidunt, euismod purus at, bibendum eros. Sed dignissim condimentum urna vel porta. Ut blandit ut nisl a dictum. Maecenas molestie erat quis eros dapibus venenatis. Fusce pellentesque, risus et ultrices lobortis, elit arcu pellentesque arcu, eu facilisis enim ligula ut lectus. Phasellus facilisis neque eget orci sagittis vestibulum. Aliquam ligula velit.
 
-## Literatur
+# Literatur
 
-Szczęsna A., Nowak A., Grabiec P., Paszkuta M., Tajstra M., Wojciechowska M. (2017) Survey of Wearable Multi-modal Vital Parameters Measurement Systems. In: Gzik M., Tkacz E., Paszenda Z., Piętka E. (eds) Innovations in Biomedical Engineering. Advances in Intelligent Systems and Computing, vol 526. Springer, Cham. https://doi.org/10.1007/978-3-319-47154-9_37
+Rau, J., May, T. W., Pfäfflin, M., Heubrock, D., & Petermann, F. (2006). Schulung von Kindern mit Epilepsie und deren Eltern mit dem Modularen Schulungsprogramm Epilepsie für Familien (FAMOSES)—Ergebnisse einer Evaluationsstudie. Die Rehabilitation, 45(01), 27–39. https://doi.org/10.1055/s-2005-915371
 
-Kasabov, N., Scott, N. M., Tu, E., Marks, S., Sengupta, N., Capecci, E., . . . Yang, J. (2016). Evolving spatio-temporal data machines based on the NeuCube neuromorphic framework: Design methodology and selected applications. Neural Networks, 78, 1-14. https://doi.org/10.1016/j.neunet.2015.09.011
+Wodrich, D. L., Jarrar, R., Buchhalter, J., Levy, R., & Gay, C. (2011). Knowledge about epilepsy and confidence in instructing students with epilepsy: Teachers’ responses to a new scale. Epilepsy & Behavior, 20(2), 360–365. https://doi.org/10.1016/j.yebeh.2010.12.002
 
 ***
 
@@ -75,9 +85,11 @@ Mara Musterfrau, Universität Chicago, <fake@example.com>
 
 Max Mustermann, VW Universität Wolfsburg
 
-## Empfohlene Zitation
+## Gutachter\*innen
 
-Musterfrau, M., & Mustermann, M. (2022). Inklusion und Implusion in der impulsiven Schule: Implusionspädagogik neu gedacht. ZEIF-Blog, 1.
+Mara Musterfrau, Universität Chicago
+
+Max Mustermann, VW Universität Wolfsburg
 
 ## Lizenz
 
